@@ -1,0 +1,11 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color:#172842;
+}
+@media screen and (max-width:480px) {
+  #root {
+    padding: 1rem;
+  }
+}
